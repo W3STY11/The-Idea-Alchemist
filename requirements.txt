@@ -1,0 +1,12 @@
+praw
+requests
+beautifulsoup4
+selenium
+snscrape
+google-api-python-client
+nltk
+gensim
+vaderSentiment
+openai
+streamlit
+unittest2
